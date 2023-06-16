@@ -3,7 +3,7 @@
 
  App Name            | Install Type | Link
 ---------------------|--------------|----------
- Bitwarden           | appimage     | [link]https://vault.bitwarden.com/download/?app=desktop&platform=linux
+ Bitwarden           | appimage     | [link](https://vault.bitwarden.com/download/?app=desktop&platform=linux)
  Discord             |              |
  Keepassxc           |              |
  Nextcloud           | appimage     |
