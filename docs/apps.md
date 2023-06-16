@@ -13,17 +13,17 @@
  OBS                 |
  Filelight           |
  kdenlive            |
- inkscape            |
+ inkscape            | [appimage](https://inkscape.org/release/inkscape-1.2.2/gnulinux/appimage/dl/)
  Firefox             |
  Google Earth        |
- Anki                |
+ Anki                | [download](https://github.com/ankitects/anki/releases/download/2.1.65/anki-2.1.65-linux-qt6.tar.zst)
  Librecad            |
- gimp                |
+ Gimp                |
  Flameshot           |
  AppImage Launcher   |
  Junction            |
  Timeshift           |
- Calibre             |
+ Calibre             | sudo dnf Install calibre
  Darktable           |
  Audacity            |
  Syncthing           |
