@@ -6,11 +6,10 @@
  Bitwarden           | [appimage](https://vault.bitwarden.com/download/?app=desktop&platform=linux)
  Discord             |
  Keepassxc           |
- Nextcloud           | appimage
+ Nextcloud           | [appimage](https://github.com/nextcloud-releases/desktop/releases/download/v3.9.0/Nextcloud-3.9.0-x86_64.AppImage)
  Discord             |
  Keepassxc           |
- Nextcloud           |
- OBS                 |
+ OBS                 | Flatpak through discovery
  Filelight           |
  kdenlive            |
  inkscape            | [appimage](https://inkscape.org/release/inkscape-1.2.2/gnulinux/appimage/dl/)
