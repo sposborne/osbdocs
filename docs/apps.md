@@ -1,7 +1,7 @@
 # Apps
 
 
-App Name            | Install Type |
+App Name            | Install Type | Link
 --------------------|--------------|----------
 Bitwarden           | appimage     |
 Discord             |              |
