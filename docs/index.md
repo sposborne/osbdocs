@@ -2,6 +2,9 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+
+![WMW Ranch](https://github.com/sposborne/osbdocs/blob/main/images/IMG-20220731-WA0005.JPG){ align=center }
+
 <!--- ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
