@@ -3,7 +3,7 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
-![WMW Ranch](images/IMG-20220731-WA0005.JPG){ align=center }
+![WMW Ranch](/images/IMG-20220731-WA0005.JPG){ align=center }
 
 <!--- ## Commands
 
